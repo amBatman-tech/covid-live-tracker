@@ -303,7 +303,7 @@ body{
 }
 
 
-/* Loader */
+/* Loader 
 
 .loader{
     position: fixed;
@@ -324,7 +324,7 @@ body{
 .loading .loader{
     visibility: visible;
     opacity: 1;
-}
+}*/
 
 /* Footer */
 .footer{
